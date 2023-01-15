@@ -298,6 +298,7 @@ a{
 .sponsor-description{
     margin: 24px auto;
     width: 542px;
+    text-align: center;
     font-size: 16px;
     font-weight: 400;
     color: #727272;
